@@ -1,0 +1,16 @@
+{
+  "bot": {
+    "name": "Ezel Rhyme 2.0",
+    "token": "NjA4MTIzNjk3NTY3MzY3MTc5.XUjlcw.yMOm3t0tFzOH4ODpHY2LuY8Mk0w",
+    "owners": [
+      "488818550992142357"
+    ],
+    "delete_cmd_messages": true,
+    "default_cmd_prefix": "!",
+    "activity_text": "use .help command"
+  },
+  "youtube": {
+    "token": "",
+    "base_url": "https://www.youtube.com"
+  }
+}
